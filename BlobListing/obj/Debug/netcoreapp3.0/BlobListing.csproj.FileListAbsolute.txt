@@ -1,0 +1,14 @@
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\BlobListing.exe
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\obj\Debug\netcoreapp3.0\BlobListing.csprojAssemblyReference.cache
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\obj\Debug\netcoreapp3.0\BlobListing.AssemblyInfoInputs.cache
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\obj\Debug\netcoreapp3.0\BlobListing.AssemblyInfo.cs
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\BlobListing.deps.json
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\BlobListing.runtimeconfig.json
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\BlobListing.runtimeconfig.dev.json
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\BlobListing.dll
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\BlobListing.pdb
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\obj\Debug\netcoreapp3.0\BlobListing.csproj.CopyComplete
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\obj\Debug\netcoreapp3.0\BlobListing.dll
+C:\Git\Utility\BlobListing\BlobListing\BlobListing\obj\Debug\netcoreapp3.0\BlobListing.pdb
